@@ -8,8 +8,11 @@ date: 2016-11-05 14:33 -0700
 
 Not a lot of reading this year. [2014]({% post_url 2014-12-03-books-2014 %}) [2015]({% post_url 2015-01-31-books-2015 %}).
 
+1. Foundation's Edge (Isaac Asimov)
+1. Foundation and Earth (Isaac Asimov)
 1. Nocturnes for the King of Naples (Edmund White)
 1. The Secret of Apollo (Stephen B. Johnson)
+1. Angels With Dirty Faces (Jonathan Wilson)
 1. Men Explain Things To Me (Rebecca Solnit)
 1. Night Train (Martin Amis)
 1. Hunger (Knut Hamsun)
@@ -17,3 +20,4 @@ Not a lot of reading this year. [2014]({% post_url 2014-12-03-books-2014 %}) [20
 1. When Things of the Spirit Come First (Simone de Beauvoir)
 1. My Brilliant Friend (Elena Ferrante)
 1. The Man in the High Castle (Philip K. Dick)
+1. Do Androids Dream of Electric Sheep? (Philip K. Dick)
