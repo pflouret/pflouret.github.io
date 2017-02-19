@@ -1,0 +1,11 @@
+markdown: kramdown
+highlighter: pygments
+local: false
+name: parb.es
+url: http://parb.es
+description: parb.es = @parb = pablo flouret
+author: pablo flouret
+rss_path: /feeds/
+rss_name: all.xml
+gems:
+    - jekyll-last-modified-at

@@ -1,0 +1,14 @@
+#!/bin/bash
+
+# git-update-server-info &
+
+GIT_QUUX_REPO=/home/palbo/code/quux
+DEST_FOLDER=/srv/http/quux/www
+
+if [ "$1" == "refs/heads/master" ]; then
+    unset GIT_DIR && \
+    cd $GIT_QUUX_REPO && \
+    git pull --ff-only && \
+    jekyll $DEST_FOLDER
+fi
+

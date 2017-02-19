@@ -1,0 +1,383 @@
+---
+layout: books
+category: books
+permalink: /books-2015.html
+title: Books 2015
+date: 2015-01-31 20:28 -0800
+---
+
+This year i also hope to read a lot, and i'll update the list as i go along, instead of posting a big list at the end of the year like last time. [2014's list here]({% post_url 2014-12-03-books-2014 %}).
+
+1. [The Red and the Black](#rougenoir) (Stendhal)<sup>[[wiki](http://en.wikipedia.org/wiki/The_Red_and_the_Black)]</sup>
+1. Nine Stories (J.D. Salinger)<sup>[re-read]
+   [[wiki](http://en.wikipedia.org/wiki/Nine_Stories_%28Salinger%29)]</sup>
+1. One Day in the Life of Ivan Denisovich (Alexander Solzhenitsyn)<sup>[[wiki](http://en.wikipedia.org/wiki/One_Day_in_the_Life_of_Ivan_Denisovich)]</sup>
+1. [Across the River and into the Trees](#river) (Hemingway)<sup>[[wiki](http://en.wikipedia.org/wiki/Across_the_River_and_into_the_Trees)]</sup>
+1. Historia Universal de la Infamia (Jorge L. Borges)<sup>[[wiki](http://en.wikipedia.org/wiki/A_Universal_History_of_Infamy)]</sup>
+1. [The Club of Queer Trades](#queer) (G.K. Chesterton)<sup>[[wiki](http://en.wikipedia.org/wiki/The_Club_of_Queer_Trades)]</sup>
+1. [Dreamers](#dreamers) (Knut Hamsun)
+1. [Slowness](#slowness) (Milan Kundera)<sup>[[wiki](http://en.wikipedia.org/wiki/Slowness_%28novel%29)]</sup>
+1. Dune (Frank Herbert)<sup>[[wiki](http://en.wikipedia.org/wiki/Dune_%28novel%29)]</sup>
+1. Bestiario (Julio Cortázar)<sup>[[wiki](http://es.wikipedia.org/wiki/Bestiario_%28libro_de_Julio_Cort%C3%A1zar%29)]</sup>
+1. [Ferdydurke](#ferdydurke) (Witold Gombrowicz)<sup>[[wiki](http://en.wikipedia.org/wiki/Ferdydurke)]</sup>
+1. [Raise High the Roof Beam, Carpenters and Seymour, an Introduction](#seymour) (J.D. Salinger)<sup>[re-read]
+   [[wiki](http://en.wikipedia.org/wiki/Raise_High_the_Roof_Beam,_Carpenters_and_Seymour:_An_Introduction)]</sup>
+1. [Franny and Zooey](#franny) (J.D. Salinger)<sup>[re-read]
+   [[wiki](http://en.wikipedia.org/wiki/Franny_and_Zooey)]</sup>
+1. [Moscow to the End of the Line](#moscow) (Venedikt Erofeev)<sup>[[wiki](http://en.wikipedia.org/wiki/Moscow-Petushki)]</sup>
+1. [El Libro de Arena](#arena) (Jorge L. Borges)<sup>[re-read]
+   [[wiki](http://en.wikipedia.org/wiki/The_Book_of_Sand)]</sup>
+1. [Breakfast at Tiffany's](#tiffanys) (Truman Capote)<sup>[[wiki](http://en.wikipedia.org/wiki/Breakfast_at_Tiffany%27s_%28novella%29)]</sup>
+1. Snow Country (Yasunari Kawabata)<sup>[[wiki](https://en.wikipedia.org/wiki/Snow_Country)]</sup>
+1. Reagan's America: Innocents at Home (Garry Wills)
+1. No Shortcuts to the Top: Climbing the World's 14 Highest Peaks (Ed Viesturs, David Roberts)
+1. Robinson Crusoe (Daniel Defoe)<sup>[[wiki](https://en.wikipedia.org/wiki/Robinson_Crusoe)]</sup>
+1. Forgetting Elena (Edmund White)
+1. Invisible Cities (Italo Calvino)<sup>[[wiki](https://en.wikipedia.org/wiki/Invisible_Cities)]</sup>
+1. The Count of Monte Cristo (Alexandre Dumas)<sup>[re-read]
+   [[wiki](https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo)]</sup>
+1. The Woman in the Dunes (Kobo Abe)
+1. Haroun and the Sea of Stories (Salman Rushdie)<sup>[[wiki](https://en.wikipedia.org/wiki/Haroun_and_the_Sea_of_Stories)]</sup>
+1. L'Étranger (Albert Camus)<sup>[[wiki](https://en.wikipedia.org/wiki/The_Stranger_%28novel%29)]</sup>
+1. Twenty-Four Hours in the Life of a Woman and The Royal Game (Stefan Zweig)<sup>[[wiki](https://en.wikipedia.org/wiki/Twenty-Four_Hours_in_the_Life_of_a_Woman)][[wiki](https://en.wikipedia.org/wiki/The_Royal_Game)]</sup>
+1. Foundation and Empire (Isaac Asimov)<sup>[re-read]
+   [[wiki](https://en.wikipedia.org/wiki/Foundation_and_Empire)]</sup>
+1. The Watcher and Other Stories (Italo Calvino)<sup>[[ref](http://www.goodreads.com/book/show/9810.The_Watcher_and_Other_Stories)]</sup>
+1. Second Foundation (Isaac Asimov)<sup>[re-read]
+   [[wiki](https://en.wikipedia.org/wiki/Second_Foundation)]</sup>
+
+
+### The Red and the Black {#rougenoir}
+> She might have attracted attention by the naturalness and liveliness of her mind had she received the meagerest education. But as a prospective heiress, she had been raised by the passionately devout nuns of the Sacred Heart of Jesus, who bore a violent hatred against all the French who were enemies of the Jesuits. Mme. de Rênal had sense enough to dismiss afterward, as absurd, everything she had learned in the convent; but she put nothing in its place and ended up knowing nothing.
+
+> In a small town in the Aveyron or in the Pyrenees, the slightest incident would have been made decisive by the torrid climate. But as matters stand, under our duller skies, a poor young man, ambitious only because his refined nature requires some of the pleasures money can buy, is coming into daily contact with a thirty-year-old woman, one who is sincerely virtuous, occupied with her children, and who does not take the novels for a model of conduct in any respect. Thigs go slowly; things happen gradually in the provinces; people are more natural there.
+
+> Entirely occupied, before Julien's arrival, with that pile of work which is the lot of any good mother when she lives far from Paris, Mme de Rênal had the same opinion of the passions that we have of the lottery: a cheat certainly and a happiness pursued only by fools.
+
+> I must admit that the weakness Julien has shown in this monologue makes me think poorly of him. He would make a worthy colleague for those conspirators in yellow gloves who would like to change a great country's whole way of life, but are unwilling to have the smallest scratch on their conscience.
+
+> The great misfortune of small towns in France, and of governments by election, like that of New York, is that you are never allowed to forget that fellows like M. de Rênal exist in the world. In the midst of a city of twenty thousand inhabitants such individuals mold public opinion, and public opinion is a terrible thing in a country that has a constitution. A man endowed with a noble and generous mind, and who might have been your friend but lives a hundred leagues away, judges you according to public opinion in your town, which is shaped by the fools whom chance has caused to be born noble, rich, and conservative. Woe to anyone who stands out from the crowd!
+
+> About this time Julien thought he might be able to turn M. de Maistre's book _Du Pape_ to his advantage. To tell the truth, he astonished his companions; but this was another piece of bad luck. He offended them by setting forth their own opinions better than they could. M. Chélan had been as reckless with regard to Julien as he had been on his own account. After having instilled in him the habit of close reasoning and of not allowing himself to be satisfied with idle chatter, he had neglected to tell him that in a person of no consequence this habit is a crime; for sound reasoning always offends.
+
+> Not until very much later did Julien fathom these secrets. Current politics, which are the main subject of conversation in bourgeois households, are not touched on in homes of the marquis' class, except in times of Crisis.
+>
+> Even in this bored century, the need for amusement is still so imperative that even on dinner days the marquis would no more than leave the drawing room when everyone took to his heels. Provided one did not trifle about God, or about priests, or about the king, or about men in high places, or about artists patronized by the court, or about the establishment in general, provided one spoke well neither of Béranger, nor of the opposition newspapers, nor of Voltaire, nor of Rousseau, nor of anyone who indulged in a bit of plain speaking; provided, especially, one never talked plitics, one might discuss any subject freely.
+
+> "High birth bestows a hundred qualities the absence of which is offensive to me; Julien is a case in point," she thought. "But it atrophies those qualities of the heart which cause a man to be condemned to death."
+
+> "What a fine ball!" he said to the count, "nothing is lacking."
+>
+> Thought was lacking," replied Altamira.
+> And his countenance betrayed a contempt that was all the more stinging since it was plain that courtesy had imposed the obligation of hiding it.
+>
+> "You are here, Count. Doesn't that make thought present, and conspiring as well?"
+>
+> "I am here because of my name. But thought is abhorred in your drawing rooms. It must never rise above the level of a vaudeville couplet; then it is rewarded. As for the man who thinks, if there is energy and novelty in his sallies, you call him a _cynic_. Isn't that the name one of your judges gave Courier? You put him in prison, just as you did Béranger. If any man among you shows his superiority, by virtue of wit, the _Congrégation_ drags him off to the police court and well-bred society applauds."
+>
+> "That is because your antiquated society prizes conformity above all else... It can never rise above military courage; you will have your Murats but never a Washington. I see nothing in France but vanity. The man who finds his ideas as he is speaking may very well happen to make an ill-advised remark, but if he does, the master of the house considers himself disgraced."
+
+> "What a fool I am," he told himself, "I, a plebeian, to take pity on a family of that rank! I, whom the Duke de Chaulnes calls a servant! How does the marquis increase his vast fortune? By dumping Government stocks when he learns from the Château that a rumor of a coup d'état is to be set afloat the next day. And I, relegated to the lowest class by a shrewish Providence, I, to whom she has given a noble heart and an income of less than a thousand francs; that is to say, no bread, _practically speaking, no bread;_ and i should refuse any pleasure that comes my way! a clear spring that has opened to quench my thirst in the burning desert of mediocrity which I must cross so painfully! By jove! I'm not that stupid; every man for himself in this desert of egoism we call life."
+
+> The moment she heard that sublime cantilena, the world and everything in it vanished for Mathilde. People spoke to her; she did not answer. Her mother scolded; she spoke to her; she could scarcely bring herself to look at her. Her ecstasy reached a stage of passion and elation comparable to the most violent emotions Julien had felt for her during the past few days. The divinely graceful cantilena to which the maxim was sung, and which seemed to apply so strikingly to her own position, filled every instant when she was not thinking about Julien himself. That night, thanks to her love of music, she was in the state Mme. de Rênal was always in when she thought about Julien. Rational love is doubtless more intelligent than true love, but it knows only brief moments of enthusiasm; it is self-conscious; it judges itself continually; far from leading thought astray, it is built on thought alone.
+
+> "But how could a girl with such a haughty character forget herself so far as to make physical advances!... Squeeze his arm in the garden one evening... disgusting! As if she didn't have a hundred less indecent ways of letting him know that she meant to distinguish him."
+
+> This line of reasoning, apparently so well founded, was all it took to drive Mathilde frantic. That spirit, lofty yet imbued with the cold cautiousness which in polite circles passes for a true expression of the human heart, was not capable of readily understanding the kind of joy that may come of throwing caution to the wind, one that can be so keen for a passionate nature. In the upper classes of Parisian society, in which Mathilde lived, passion is rarely able to slough off prudence; it's from the sixth floor that people throw themselves out the window.
+
+> "Count Altamira was telling me that on the eve of his death Danton said in his gruff voice: 'It's odd, but the verb "to guillotine" cannot be conjugated in all its tenses. You can say: "I will be guillotined, you shall be guillotined"; but you cannot say: "I have been guillotined."'
+>
+> "Why not," Julien went on, "if there is another life? My faith, if I meet the God of the Christians, I'm done for; he's a despot, and as such, filled with thoughts of vengeance. His Bible speaks of nothing but terrible punishments. I have never loved him; I have never been willing to believe that anyone could love him sincerely. He is merciless." (And Julien recalled several passages in the Bible.) "He will punish me in some horrible way...
+>
+> "But if I should see Fénelon's God! Perhaps he would say to me: 'A great deal will be forgiven you, for you have loved a great deal...
+
+> There is no such thing as _natural rights_; that idea is a piece of time-honored nonsense well worthy of the prosecutor who went after me the other day and whose ancestor got rich on one of Louis XIV's confiscations. A _right_ does not exist unless there is a law to forbig one's doing such and such a thing under penalty. Before there were laws nothing was _natural_ except the lion's strength, or the need of the creature who was hungry, who was cold, in a word, _need_... No, the men society honors are nothing but crooks lucky enought not to get caught red-handed. The wealth to a swindle... I attempted murder, and I have been justly condemned, but with the exception of that one act, Valenod, who convicted me, is a hundred times more harmful to society.
+
+### Across the River and into the Trees {#river}
+> But I never got into it. It is my city, though, because I fought for it when I was a boy, and now that I am half a hundred years old, they know I fought for it and am part owner and they treat me well.
+>
+> Do you think that's why they treat you well, he asked himself.
+>
+> Maybe, he thought. Maybe they treat me well because I'm a chicken colonel in the winning side. I don't believe it, though. I hope not anyway. It is not France, he thought.
+>
+> There you fight your way into a Cory that you love and are very careful about breaking anything and then, if you have good sense, you are careful not to go back because you will meet some military characters who will resent your having fought your way in. Vive la France et les pommes de terre frites. Liberté, Venalité, et Stupidité. The great clarté of the French military thinking.
+
+> ‘Thank you, sir,’ said Jackson. ‘I'd like to read him anytime I have time. He has a nice practical looking place. What did you say the name was?’
+>
+> ‘D'Annunzio,’ the Colonel said. ‘Writer.’
+>
+> He added to himself, not wishing to confuse Jackson, nor be difficult, as he had been with the man several times that day, writer, poet, national hero, phrased of the dialectic of Fascism, macabre egotist, aviator, commander, or rider, in the first of the fast torpedo attack boats, Liutenant Colonel of Infantry without knowing how to command a company, nor a platoon properly, the great lovely writer of Notturno whom we respect, and jerk.
+
+> When whe was gone, the _Gran Maestro_ said to the Colonel, 'What is the boy? One of those sad Americans?'
+>
+> 'Yes,' the Colonel said. 'And by Jesus Christ we've got a lot of them. Sad, self-righteous, over-fed and under-trained. If they are under-trained, it is my fault. But we've got some good ones, too.'
+
+> 'And how are you, yourself?'
+>
+> 'Awful,' the _Gran Maestro_ said. 'I have low blod pressure, ulcers, and I owe money.'
+>
+> 'Are you happy?'
+>
+> 'All the time,' the _Gran Maestro_ said.
+
+> 'I'll see you at dinner,' the Colonel said. 'What is there?'
+>
+> 'We will have anything you wish, and what we do not have I will send out for.'
+>
+> 'Do you have any fresh asparagus?'
+>
+> 'You know we cannot have it in these months. It comes in April and from Bassano.'
+>
+> 'Then I'll just urinate the usual odor,' the Colonel said. 'You think of something and I'll eat it.'
+
+> 'Do you ever lie?'
+>
+> 'I've lied four times. But each time I was very tired. That's not an excuse,' he added.
+>
+> 'I lied a lot when I was a little girl. But mostly it was making up stories. Or I hope so. But I have never lied to my own advantage.'
+>
+> 'I have,' said the Colonel. 'Four times.'
+>
+> 'Would you have been a general if you had not lied?'
+>
+> 'If i had lied as others lied, I would have been a three-star general.'
+
+> 'But he [Montgomery] beat General Rommel.'
+>
+> 'Yes. And you don't think any one else had softened him up? And who can't win with fifteen to one? When we fought here, when we were boys, the _Gran Maestro_ and I, we won for one whole year with three to four against one and we won each one. Three main bad ones. That is why we can make jokes and not be solemn. We had something over one hundred and forty thousand dead that year. That is why we can speak gaily and without pomposity.'
+
+> He came over to the table and kissed Renata's hand, saying, '_Ciao_, Renata.' He was almost tall, beautifully built in his town clothes, and he was the shyest man the Colonel had ever known. He was not shy from ignorance, nor from being ill at ease, nor from any defect. He was basically shy, as certain animals are, such as the Bongo that you will never see in the jungle, and that must be hunted with dogs.
+
+> 'Are you excited to see it?' the girl asked.
+>
+> 'Very,' said the Colonel. '_Gran Maestro_ some more of that Roederer, please, and please place a chair in such a position that we may view a portrait. We are devotees of the pictorial arts.'
+
+> This sausage was for Bobby.
+>
+> But you do not say that you buy sausages for a dog in Italy where the worst crime is to be considered a fool and many people go hungry. You may give expensive sausage to a dog before a man who works for his living and knows what a dog goes through in water in cold weather. But you do not buy them, stating your purpose in possessing them, unless you are a fool, or a millionaire from the war and from after.
+
+> 'They say you should never speak ill of the dead. But I think it is the best time to speak truly of them. I have never said anything of a dead that I would not say to his face,' and he added, 'in spades.'
+
+> There were hours at Harry's when it filled with the people that you knew, with the same rushing regularity as the tide coming in at Mont St. Michel. Except, the Colonel thought, the hours for the tides change each day with the moon, and the hours at Harry's are as the Greenwich Meridian, or the standard meter in Paris, or the good opinion the French military hold of themselves.
+
+### The Club of Queer Trades {#queer}
+
+> Basil immediately said to me, "Let us come into the next room, Gully," and was moving towards the door, but the stranger said:
+>
+> "Not at all. Friends remain. Assistance possibly."
+>
+> The moment I heard him speak I remembered who he was, a certain Major Brown I had met years before in Basil's society. I had forgotten altogether the black dandified figure and the large solemn head, but I remembered the peculiar speech, which consisted of only saying about a quarter of each sentence, and that sharply, like the crack of a gun. I do not know, it may have come from giving orders to troops.
+
+> "Facts," murmured Basil, like one mentioning some strange, far-off animals, "how facts obscure the truth. I may be silly--in fact, I'm off my head--but I never could believe in that man--what's his name, in those capital stories?--Sherlock Holmes. Every detail points to something, certainly; but generally to the wrong thing. Facts point in all directions, it seems to me, like the thousands of twigs on a tree. It's only the life of the tree that has unity and goes up--only the green blood that springs, like a fountain, at the stars."
+
+> "You will excuse me, gentlemen," said the egregious Northover, with his radiant smile, "if I continue to work until Mr Hopson is ready. I have some books that must be cleared up before I get away on my holiday tomorrow. And we all like a whiff of the country, don't we? Ha! ha!"
+
+> "Major," said he, "did you ever, as you walked along the empty street upon some idle afternoon, feel the utter hunger for something to happen--something, in the splendid words of Walt Whitman: 'Something pernicious and dread; something far removed from a puny and pious life; something unproved; something in a trance; something loosed from its anchorage, and driving free.' Did you ever feel that?" 
+
+> Basil Grant and I were talking one day in what is perhaps the most perfect place for talking on earth--the top of a tolerably deserted tramcar. To talk on the top of a hill is superb, but to talk on the top of a flying hill is a fairy tale.
+>
+> The vast blank space of North London was flying by; the very pace gave us a sense of its immensity and its meanness. It was, as it were, a base infinitude, a squalid eternity, and we felt the real horror of the poor parts of London, the horror that is so totally missed and misrepresented by the sensational novelists who depict it as being a matter of narrow streets, filthy houses, criminals and maniacs, and dens of vice. In a narrow street, in a den of vice, you do not expect civilization, you do not expect order. But the horror of this was the fact that there was civilization, that there was order, but that civilisation only showed its morbidity, and order only its monotony. No one would say, in going through a criminal slum, "I see no statues. I notice no cathedrals." But here there were public buildings; only they were mostly lunatic asylums. Here there were statues; only they were mostly statues of railway engineers and philanthropists--two dingy classes of men united by their common contempt for the people. Here there were churches; only they were the churches of dim and erratic sects, Agapemonites or Irvingites. Here, above all, there were broad roads and vast crossings and tramway lines and hospitals and all the real marks of civilization. But though one never knew, in one sense, what one would see next, there was one thing we knew we should not see--anything really great, central, of the first class, anything that humanity had adored.
+
+> "Oh, the mere facts," he cried out in a kind of despair. "The mere facts! Do you really admit--are you still so sunk in superstitions, so clinging to dim and prehistoric altars, that you believe in facts? Do you not trust an immediate impression?"
+>
+> "Well, an immediate impression may be," I said, "a little less practical than facts."
+>
+> "Bosh," he said. "On what else is the whole world run but immediate impressions? What is more practical? My friend, the philosophy of this world may be founded on facts, its business is run on spiritual impressions and atmospheres. Why do you refuse or accept a clerk? Do you measure his skull? Do you read up his physiological state in a handbook? Do you go upon facts at all? Not a scrap. You accept a clerk who may save your business--you refuse a clerk that may rob your till, entirely upon those immediate mystical impressions under the pressure of which I pronounce, with a perfect sense of certainty and sincerity, that that man walking in that street beside us is a humbug and a villain of some kind."
+
+> "A perfectly good fellow. Lord Beaumont of Foxwood--don't you know his name? He is a man of transparent sincerity, a nobleman who does more work than a navvy, a socialist, an anarchist, I don't know what; anyhow, he's a philosopher and philanthropist. I admit he has the slight disadvantage of being, beyond all question, off his head. He has that real disadvantage which has arisen out of the modern worship of progress and novelty; and he thinks anything odd and new must be an advance. If you went to him and proposed to eat your grandmother, he would agree with you, so long as you put it on hygienic and public grounds, as a cheap alternative to cremation. So long as you progress fast enough it seems a matter of indifference to him whether you are progressing to the stars or the devil. So his house is filled with an endless succession of literary and political fashions; men who wear long hair because it is romantic; men who wear short hair because it is medical; men who walk on their feet only to exercise their hands; and men who walk on their hands for fear of tiring their feet. But though the inhabitants of his salons are generally fools, like himself, they are almost always, like himself, good men. I am really surprised to see a criminal enter there."
+
+> "True," he said, "there is no inconsistency, my son of the red spear. But there is a great deal of incompatibility of temper. I am very far from being certain that the Zulu is on an inferior evolutionary stage, whatever the blazes that may mean. I do not think there is anything stupid or ignorant about howling at the moon or being afraid of devils in the dark. It seems to me perfectly philosophical. Why should a man be thought a sort of idiot because he feels the mystery and peril of existence itself? Suppose, my dear Chadd, suppose it is we who are the idiots because we are not afraid of devils in the dark?"
+
+> "James, Mr Bingham of the British Museum wants to see you again."
+>
+> The philosopher rose with a dazed look, which always indicates in such men the fact that they regard philosophy as a familiar thing, but practical life as a weird and unnerving vision, and walked dubiously out of the room.
+
+> "What does the woman mean?" I said after a pause, irritably. "Those women have been saying that the poor old professor was mad ever since he was born."
+>
+> "You are mistaken," said Grant composedly. "It is true that all sensible women think all studious men mad. It is true, for the matter of that, all women of any kind think all men of any kind mad. But they don't put it in telegrams, any more than they wire to you that grass is green or God all-merciful. These things are truisms, and often private ones at that.
+
+> The conversation of Rupert Grant had two great elements of interest--first, the long fantasias of detective deduction in which he was engaged, and, second, his genuine romantic interest in the life of London. His brother Basil said of him: "His reasoning is particularly cold and clear, and invariably leads him wrong. But his poetry comes in abruptly and leads him right."
+
+### Dreamers {#dreamers}
+
+> But that was the way to be if you wanted to succeed in life: not do too much, but rather do slightly too little of everything, and it would be regarded as adequate.
+
+### Slowness {#slowness}
+
+> [...] he is in a state of ecstasy; in that state he is unaware of his age, his wife, his children, his worries, and so he has no fear, because the source of fear is in the future, and a person freed of the future has nothing to fear.
+
+> A curious alliance: the cold impersonality of technology with the flames of ecstasy. I recall an American woman from thirty years ago, with her stern, committed style, a kind of apparatchik of eroticism, who gave me a lecture (chillingly theoretical) on sexual lieration; the word that came up most often in her talk was "orgasm"; I counted: forty-three times. The religion of orgasm: utilitarianism projected into sex life; efficiency versus indolence; coition reduced to an obstacle to be got past as quickly as possible in order to reach an ecstatic explosion, the only true goal of love-making and of the universe.
+
+> The epistolary form of _Les Liaisions dangereuses_ is not merely a technical procedure that could easily be replaced by another. The form is eloquent in itself, and it tells us that whatever the characters have undergone they have undergone for the sake of telling about it, for transmitting, communicating, confessing, writing it.
+
+> I wonder why Pontevin does not make his very interesting ideas public. [...] He doesn't care about making his theories known? That's an understatement: he detests the idea. A person who makes his ideas public does risk persuading others of his viewpoint, influencing them, and thus winding up in the role of those who aspire to change the world. Change the world! In Pontevin's view, what a monstrous goal! Not because the world is so admirable as it is but because any change leads inevitably to something worse. And because, from a more selfish standpoint, any idea made public will sooner or later turn on its author and confiscate the pleasure he got from thinking it.
+
+> Pontevin takes a long pause. He is the master of long pauses. He knows that only timid people fear them and that when they don't know what to say, they rush into embarrassing remarks that make them look ridiculous.
+
+> There is a secret bond between slowness and memory, between speed and forgetting.
+
+> [...] Fame has devoured all his liberty, and now he knows: that only totally unconscious people could willingly consent these days to trail the pots and pans of celebrity along behind them.
+>
+> You say that though the nature of fame changes, this still concerns only a few privileged persons. You're mistaken. For fame concerns not only the famous people, it concerns everyone. These days, famous people are in magazines, on television screens, they invade everyone's imagination. And everyone considers the possibility, be it only in dreams, of becoming the object of such fame. The possibility shadows every single person and changes the nature of his life; for any new possibility that existence acquires, even the least likely, transforms everything about existence.
+
+> And Vincent sadly recalls an old idea of his: people always think that a man's fortunes are more or less determined by his appearane, by the beauty or ugliness of his face, by his size, by his hair or lack of it. Wrong. It is the voice that decides it all. And Vincent's is feeble and too piercing; when he starts to talk no one notices, so that he has to force it, and then everyone has the impression he is shouting.
+
+> She is sadder and sadder, and for a man there is no balm more soothing than the sadness he has caused a woman.
+
+> Then they rise and continue their stroll. The full moon emerges from the foliage. Vincent looks at Julie and suddenly he is bewitched: the white light has endowed the girl with the beauty of a fairy, a beauty that surprises him, new beauty he did not see in her before, a fine fragile, chaste inaccessible beauty. And suddenly, he cannot even tell how it happened, he imagines the hole of her ass. Abruptly, unexpectedly, that image is there, and he will never be rid of it.
+>
+> Ah, the liberating ass hole! Thanks to it, the elegant fellow in the three-piece suit (at last, at last!) has completely vanished. What several glasses of whisky could not accomplish, an ass hole has achieved in a single second! Vincent winds Julie in his arms, kisses her, strokes her breasts, gazes on her delicate fairylike beauty, and all this time, constantly, he is picturing her ass hole. He has an enormous desire to tell her: "I'm stroking your breasts, but all I'm thinking about is your ass hole."
+
+> The way contemporary history is told is like a huge concert where they present all of Beethoven's one hundred thirty-eight opuses one after the other, but actually play just the first eight bars of each. If the same concert were given again in ten years, only the first note of each piece would be played, thus one hundred thirty-eight notes for the whole concert, presented as one continuous melody. And in twenty years, the whole of Beethoven's music would be summed up in a single very long buzzing tone, like the endless sound he heard the first day of his deafness.
+
+> [...] our period is given to the demon of speed, and that is the reason it so easily forgets its own self. Now i would reverse that statement and say: our period is obsessed by the desire to forget, and it is to fulfill that desire that it gives over to the demon of speed; it picks up the pace to show us that it no longer wishes to be remembered; that it is tired of itself; sick of itself; that it wants to blow out the tiny trembling flame of memory.
+
+> The Chevalier sees in this stare the stubborn urge to speak. Something in that subbornness disturbs him. He understands that that impatience to speak is also an implacable uninterest in listening. Having run up against that urge to speak, the Chevalier instantly loses the taste for saying anything at all, and at once he ceases to see any reason to prolong the encounter.
+
+### Ferdydurke {#ferdydurke}
+> Perhaps I took serious matters too seriously; perhaps I overestimated the maturity of mature persons.
+
+> I thought i must be dreaming, for it is only in a dream that you find yourself in situations more stupid than anything you could imagine awake.
+
+> Piorkowski half opened the door of the next room, and the two pedagogues discreetly looked inside; I did the same, and was terrified by what I saw. The staff were seated round a table, having tea. I have never set eyes on such a pathetic collection of little old men. They were all eating noisily. the first was chewing his food, the second bolting it, the third masticating, the fourth munching, the fifth gulping it down, and the sixth looked like a moron.
+
+> This level of exposition got on one boy’s nerves and he had an acute attack of the fidgets. When he could stand it no longer he burst out:
+>
+> "But if he has no effect on me whatever, if he simply doesn’t interest me, if I can’t read two verses of his without falling asleep... Heaven help me, sir, but how am I to be sent into transports of delight if I am not sent into transports of delight?"
+
+> The master, however, having dismissed Bobkowski with a nought, thought of another grammatical problem. What was the third person plural of the passive periphrastic subjunctive of the verb _colleo_, _colleare_, _colleavi_, _colleatum_? The idea excited him greatly.
+
+> 'How, gentlemen, is it possible that you derive no pleasure and satisfaction from that? Do you not see that _collandus sim_ sharpens the wits, stimulates the intelligence, forms the character, improves us from every point of view, and puts us on terms of familiarity with the thought of the ancients? For--now foollow me carefully, gentlement--if the gerundive of _olleare_ is _ollandus_, the gerundive of _colleare_ must be _collandus_, because the future passive ending of the third conjugation is _dus_, _dus_, _dus_, with the sole exception of the expections when it ends in _us_, _us_, _us_! Do you not feel the germ of perfection contained in that termination?'
+>
+> At this point Kotecki got up and said in desperation:
+>
+> 'But, heaven help us, sir, how can you say that it improves us when it doesn't improve us? How can you say that it stimulates us when it doesn't stimulate us? How can you say that it forms our character when it doesn't form anything? I don't understand, sir!'
+
+> 'Johnnie,' he muttered in my ear, 'don't model youself on this modern girl, who belongs to the new, post-war generation, the sport-and-jazz age! These barbarous post-war manners! This decay of civilization! The lack of respect! The new generation's passion for enjoying itself, its passion to enjoy life! I am beginning to think that this will not be a healthy environment for you!'
+
+> Who knows? If i put my eye to the keyhole, i may see something which will repel me straight away, for many a beauty, alone in her room behaves in a fantastically revolting manner. On the other hand, i was also taking a grave risk, for some girls who have subjected themselves to the discipline of charm keep just as careful a watch on themselves in private as in public, with the result that instead of ugliness i might see beauty--and beauty in solitude is even more shattering.
+
+> He was excited, and there was a slight tremor in his voice, but he concealed it. I was afraid he might mention the letter, but fortunately the modern code forbade them to talk a great deal, or to be surprised at each other; they had to pretend that everything was straightforward and self-evident.
+
+> It is only by action that the full madness of madness is demonstrated.
+
+### Raise High the Roof Beam, Carpenters and Seymour, an Introduction {#seymour}
+> "She worries over the way her love for me comes and goes, appears and disappears. She doubts its reality simply because it isn't as steadily pleasurable as a kitten. God knows it is sad. The human voice conspires to desecrate everything on earth."
+
+> "Zooey was in dreamy top form. The announcer had them off on the subject of housing developments, and the little Burke girl said she hated houses that all look alike-meaning a long row of identical 'development' houses. Zooey said they were 'nice.' He said it would be very nice to come home and be in the wrong house. To eat dinner with the wrong people by mistake, sleep in the wrong bed by mistake, and kiss everybody goodbye in the morning thinking they were your own family. He said he even wished everybody in the world looked exactly alike. He said you'd keep thinking everybody you met was your wife or your mother or father, and people would always be throwing their arms around each other wherever they went, and it would look 'very nice.'"
+
+> It was the height of the sprint thaw, a beautiful sunny day, and I was feeling, frankly, just a trifle Thoreauish (a real treat for me, because after thirteen years of country living I'm still a man who gauges bucolic distances by New York City blocks).
+
+> I think it should be done over, Buddy. The Doctor is so good, but I think you like him too late. The whole first half, he's out in the cold, waiting for you to like him, and lie's your main character. You sec his nice dialogue with the nurse as a conversion. It should have been a religious story, but it's puritanical. I feel your censure on all his Goddamns. That seems off to me. What is it but a low form of prayer when he or Les or anybody else God-damns everything? I can't believe God recognizes any form of blasphemy. It's a prissy word invented by the clergy.
+
+> Besides, a confessional passage has probably never been written that didn't stink a little bit of the writer's pride in having given up his pride.
+
+> With Bessie, for instance, one of the main things about Seymour was his tallness. In her mind she sees him as an uncommonly rangy, Texan type, forever ducking his head as he came into rooms. The fact is, he was five ten and a half- a short tall man by modem, multiple-vitamin standards. Which was fuse with him. He had no love whatever for height. I wondered for a while, when the twins went over six feet, whether he was going to send them condolence cards. I think if he were alive today he'd be all smiles that Zooey, being all actor, grew up small. He, S., was a very firm believer in low centers of gravity for real actors.
+
+> The method of marble-shooting that Seymour, by sheer intuition, was recommending to me can be related, I'd say, legitimately and un-Easternly, to the fine art of snapping a cigarette end into a small wastebasket from across a room. An art, I believe, of which most male smokers are true masters only when either they don't care a hoot whether or not the butt goes into the basket or the room has been cleared of eyewitnesses, including, quite so to speak, the cigarette snapper himself.
+
+### Franny and Zooey {#franny}
+> "All right," Franny said wearily. "France." She took a cigarette out of the pack on the table. "It isn't just Wally. It could be a girl, for goodness' sake. I mean if he were a girl-somebody in my dorm, for example-he'd have been painting scenery [191] in some stock company all summer. Or bicycled through Wales. Or taken an apartment in New York and worked for a magazine or an advertising company. It's everybody, I mean. Everything everybody does is so-I don't know-not wrong, or even mean, or even stupid necessarily. But just so tiny and meaningless and -sad-making. And the worst part is, if you go bohemian or something crazy like that, you're conforming just as much as everybody else, only in a different way."
+
+> "All I know is I'm losing my mind," Franny said. "I'm just sick of ego, ego, ego. My own and everybody else's. I'm sick of everybody that wants to get somewhere, do something distinguished and all, be somebody interesting. It's disgusting-it is, it is. I don't care what anybody says."
+>
+> Lane raised his eyebrows at that, and sat back, the better to make his point. "You sure you're just not afraid of competing?" he asked with studied quietness. "I don't know too much about it, but I'd lay odds a good psychoanalyst-I mean a really competent one-would probably take that statement-"
+>
+> "I'm not afraid to compete. It's just the opposite. Don't you see that? I'm afraid I will compete-that's what scares me. That's why I quit the Theatre Department. Just because I'm so horribly conditioned to accept everybody else's values, and just because I like applause and people to rave about me, doesn't make it right. I'm ashamed of it. I'm sick of it. I'm sick of not having the courage to be an absolute nobody. I'm sick of myself and everybody else that wants to make some kind of a splash."
+
+> What brings this on is something that happened to me at the local supermarket today. (No new paragraph. I'll spare you that.) I was standing at the meat counter, waiting for some rib lamb chops to be cut. A young mother and her little girl were waiting around, too. The little girl was about four, and, to pass the time, she leaned her back [213] against the glass showcase and stared up at my unshaven face. I told her she was about the prettiest little girl I'd seen all day. Which made sense to her; she nodded. I said I'd bet she had a lot of boy friends. I got the same nod again. I asked her how many boy friends she had. She held up two fingers. "Two!" I said. "That's a lot of boy friends. What are their names, sweetheart?" Said she, in a piercing voice, "Bobby and Dorothy." I grabbed my lamb chops and ran. But that's exactly what brought on this letter-much more than Bessie's insistence that I write to you about Ph.D.s and acting. That, and a haiku-style poem I found in the hotel room where Seymour shot himself. It was written in pencil on the desk blotter: "The little girl on the plane/ Who turned her doll's head around/ To look at me."
+
+> But I swear to you that I had a perfectly communicable little vision of truth (lamb-chop division) this afternoon the very instant that child told me her boy friends' names were Bobby and Dorothy. Seymour once said to me-in a crosstown bus, of all places-that all legitimate religious study must lead to unlearning the differences, the illusory differences, between boys and girls, animals and stones, day and night, heat and cold. That suddenly hit me at the meat counter, and it seemed a matter of life and death to drive home at seventy miles an hour to get a letter off to you.
+
+> She lit a fresh king-size cigarette abruptly, dragged on it, then stood up, exhaling smoke. "I'll be back in a minute," she said. The statement sounded, innocently, like a promise. "Just please use the bathmat when you get out," she added. "That's what it's there for." She left the bathroom, closing the door securely behind her.
+>
+> It was rather as though, after being in makeshift wet dock for days, the Queen Mary had just sailed out of, say, Walden Pond, as suddenly and perversely as she had sailed in. Behind the shower curtain, Zooey closed his eyes for a few seconds, as though his own small craft were listing precariously in the wake. Then he pulled back the shower curtain and stared over at the closed door. It was a weighty stare, and relief was not really a great part of it. As much as anything else, it was the stare, not so paradoxically, of a privacy-lover who, once his privacy has been invaded, doesn't quite approve when the invader just gets up and leaves, one-two-three, like that.
+
+> Mrs. Glass blinked her eyes, just once, and Zooey instantly looked away from her face. He bent over and fished his razor out of the wastebasket. "We're freaks, the two of us, Franny and I," he announced, standing up. "I'm a twenty-five-year-old- freak and she's a twenty-year-old freak, and both those bastards are responsible." He put his razor on the edge of the washbowl, but it slid obstreperously down into the bowl. He quickly picked it out, and this time kept it in the grasp of his fingers. "The symptoms are a little more delayed in Franny's case than mine, but she's a freak, too, and don't you forget it. I swear to you, I could murder them both without even batting an eyelash. The great teachers. The great emancipators. My God. I can't even sit down to lunch with a man any more and hold up my end of a decent conversation. I either get so bored or so goddam preachy that if the son of a bitch had any sense, he'd break his chair over my head."
+
+> It got worse and worse. I even started picking on my roommate. Oh, God, poor Bev! I started catching her looking at me as if she hoped I'd decide to move out of the room and let somebody halfway pleasant and normal move in and give her a little peace. It was just terrible! And the worst part was, I knew what a bore I was being, I knew how I was depressing people, or even hurting their feelings-but I just couldn't stop! I just could not stop picking."
+
+> "It was the worst of all in class, though," she said with decision. "That was the worst. What happened was, I got the idea in my head-and I could not get it out-that college was just one more dopey, inane place in the world dedicated to piling up treasure on earth and everything. I mean treasure is treasure, for heaven's sake. What's the difference whether the treasure is money, or property, or even culture, or even just plain knowledge? It all seemed like exactly the same thing to me, if you take off the wrapping-and it still does! Sometimes I think that knowledge-when it's knowledge for knowledge's sake, anyway-is the worst of all. The least excusable, certainly."
+
+> You have the right to work, but for the work's sake only. You have no right to the fruits of work. Desire for the fruits of work must never be your motive in working. Never give way to laziness, either.
+>
+> Perform every action with your heart fixed on the Supreme ' Lord. Renounce attachment to the fruits. Be even-tempered [underlined by one of the calligraphers] in success and failure; for it is this evenness of temper which is meant by yoga.
+>
+> Work done with anxiety about results is far inferior to work done without such anxiety, in the calm of self-surrender. Seek refuge in the knowledge of Brahman. They who work selfishly for results are miserable.
+>
+>        - "Bhagavad Gita."
+
+> "Well, I'm not terribly sure what all she told me, sweetheart. Past a certain point, it's a little rude to go on listening to Bessie on the phone. I heard about the cheeseburger diet, you can be sure. And, of course, the Pilgrim books. Then I think I just sat with the phone at my ear, not really listening. You know."
+
+### Moscow to the End of the Line {#moscow}
+> What sort of hallway was it? I haven't the slightest idea even now, and it ought to be that way. Everything should. Everything should take place slowly and incorrectly so that man doesn't get a chance to start feeling proud, so that man is sad an perplexed.
+
+> But, so what. So what if I’m a bad person. I’ve noticed that, in general, if a person feels nasty in the morning but is full of plans and dreams and vigour in the evening, he’s a very bad person. Mornings rotten: evenings, fine – a sure sign of a bad type. But take someone who’s full of energy and hope in the morning, but overwhelmed with exhaustion in the evening – for sure he’s a trashy, narrow-minded mediocrity. That sort of person is disgusting to me. I don’t know how he strikes you, but to me he’s disgusting.
+>
+> Of course, there are people for whom morning and evening are equally pleasing, who are equally pleased by sunrise and sunset. These are simply bastards. It's sickening even to talk about them. But then, if someone is equally repulsed by morning and evening, I really don't know what to say about him. That's the ultimate cocsucking scum.
+
+> What was I to do next? Be tender in an insinuating way or crude in a captivating way? The devil knows, I never really understood how or when to approach a drunken girl. Up to this point--should I tell you?--up to this point I knew little about them, drunken or sober. Of course, I rushed after them in my thoughts, but the moment I would catch up, my heart would stop in fright. I had designs but not intentions. Whenever any intentions appeared my designs disappeared and, though I rushed after them in my heart, my thought stopped in fright. I was contradictory.
+
+> Law is higher than us all. The hiccup is higher than any law. And as its onset so astonished us not long before, so its ending will astonish us, an ending which --like death-- you can neither predict nor stave off.
+
+> Very strange, this man and woman. They are sitting on different sides of the car at opposite windows and obviously are not acquainted. But for all that, they look amazingly similar--he is wearing a jacket and she is wearing a jacket; he has a brown beret and a black moustache, she has a brown beret and a black moustache.
+
+### El Libro de Arena {#arena}
+> [...], una biografía de Amiel y, escondido detrás de los demás, un libro en rústica sobre las costumbres sexuales de los pueblos balcánicos.
+
+> Murió con impaciencia de morir, pero sin una queja. Nuestra abuela había muerto en la misma casa. Unos días antes del fin, nos llamó a todos y nos dijo: "Soy una mujer muy vieja, que está muriéndose muy despacio. Que nadie se alborote por una cosa tan común y corriente".
+
+> Ahora, las cosas andan mal. Rusia está apoderándose del planeta; América, trabada por la superstición de la democracia, no se resuelve a ser un imperio. Cada día que pasa nuestro país es más provinciano. Más provinciano y más engreído, como si cerrara los ojos.
+
+> Me quedé pensando y le pregunté si verdaderamente se sentía hermano de todos. Por ejemplo, de todos los empresarios de pompas fúnebres, de todos los carteros, de todos los buzos, de todos los que viven en la acera de números pares, de todos los afónicos, etcétera.
+
+> Salvo en las severas páginas de la historia, los hechos memorables prescinden de frases memorables.
+
+> Mi _alter ego_ creía en la invención o descubrimiento de metáforas nuevas; yo en las que corresponden a afinidades íntimas y notorias y que nuestra imaginación ya ha aceptado. La vejez de los hombres y el ocaso, los sueños y la vida, el correr del tiempo y del agua.
+
+> Medio siglo no pasa en vano. Bajo nuestra conversación de personas de miscelánea lectura y gustos diversos, comprendí que no podíamos entendernos. Éramos demasiado distintos y demasiado parecidos.
+
+> Por indecisión o negligencia o por otras razones, no me casé, y ahora estoy solo. No me duele la soledad; bastante esfuerzo es tolerarse a uno mismo y a sus manías. Noto que estoy envejeciendo; un síntoma inequívoco es el hecho de que no me interesan o sorprenden las novedades, acaso porque advierto que nada esencialmente nuevo hay en ellas y que no pasan de ser tímidas variaciones.
+
+> Beatriz no quiso ver el barco; la despedida, a su entender, era un énfasis, una insensata fiesta de la desdicha, y ella detestaba los énfasis.
+
+> He notado que los viajes de vuelta duran menos que los de ida, pero la travesía del Atlántico, pesada de recuerdos y de zozobras, me pareció muy larga.
+
+> A punto de rendir el último examen en la Universidad de Texas, en Austin, supe que mi tío Edwin Arnett había muerto de un aneurisma, en el confín remoto del continente. Sentí lo que sentimos cuando alguien muere: la congoja, ya inútil, de que nada nos hubiera costado haber sido más buenos. El hombre olvida que es un muerto que conversa con muertos.
+
+> Poco tardamos en avistar las primeras casa. ¿Ustedes nunca estuvieron en Lobos? Lo mismo da; no hay un pueblo de la provincia que no sea idéntico a los otros, hasta en lo de creerse distinto.
+
+> La guerra es el hermoso tejido de hombres y el agua de la espada es la sangre.
+
+> -- Ahora vas a ver algo que nunca has visto.
+> 
+> Me tendió con cuidado un ejemplar de la _Utopía_ de More, impreso en Basilea en el año 1518 y en el que faltaban hojas y láminas.
+>
+> No sin fatuidad repliqué:
+>
+> -- Es un libro impreso. En casa habrá más de dos mil, aunque no tan antiguos ni tan preciosos.
+>
+> Leí en voz alta el título.
+>
+> El otro se rió.
+>
+> -- Nadie puede leer dos mil libros. En los cuatro siglos que vivo no habré pasado de una media docena. Además no importa leer sino releer. La imprenta, ahora abolida, ha sido uno de los peores males del hombre, ya que tendió a multiplicar hasta el vértigo textos innecesarios.
+
+> -- ¿Dinero? --repitió--. Ya no hay quien adolezca de pobreza, que habrá sido insufrible, ni de riqueza, que habrá sido la forma más incómoda de la vulgaridad.
+>
+> Cada cual ejerce de su oficio.
+
+### Breakfast at Tiffany's and Three Stories {#tiffanys}
+> Joe Bell hasn’t an easy nature, he admits it himself, he says it’s because he’s a bachelor and has a sour stomach. Anyone who knows him will tell you he’s a hard man to talk to.
+
+> Perhaps, like most of us in a foreign country, he was incapable of placing people, selecting a frame for their picture, as he would at home; therefore all Americans had to be judged in a pretty equal light, and on this basis his companions appeared to be tolerable examples of local color and national character.
+
+> Those final weeks, spanning end of summer and the beginning of another autumn, are blurred in memory, perhaps because our understanding of each other had reached that sweet depth where two people communicate more often in silence than in words: an affectionate quietness replaces the tensions, the unrelaxed chatter and chasing about that produce a friendship’s more showy, more, in the surface sense, dramatic moments.
+
+> Ottilie, she said, you've got an admirer: see that boy over there, he's staring at you like you were something cold to drink.
+
+> While they work, the kitchen darkens, turning the window into a mirror: our reflection mingle with the rising moon as we work by the fireside in the firelight.  At last, when the moon is quite high, we toss the final hull into the fire and, with joined sighs, watch it catch flame. The buggy is empty, the bowl is brimful.
+
+> My friend has never been to a picture show, nor does she intend to: “I’d rather hear you tell the story, Buddy. That way I can imagine it more. Besides, a person my age shouldn’t squander their eyes. When the Lord comes, let me see Him clear.” In addition to never having seen a movie, she has never: eaten in a restaurant, traveled more than five miles from home, received or sent a telegram, read anything except funny papers and the Bible, worn cosmetics, cursed, wished someone harm, told a lie on purpose, let a hungry dog go hungry. Here are a few things she has done, does do: killed with a hoe the biggest rattlesnake ever seen in this county (sixteen rattles), dip snuff (secretly), tame hummingbirds (just try it) till they balance on her finger, tell ghost stories (we both believe in ghosts) so tingling they chill you in July, talk to herself, take walks in the rain, grow the prettiest japonicas in town, know the recipe for every sort of old-time Indian cure, including a magical wart-remover.
+
+> Many compliments accompany our sunset return along the red clay road to town; but my friend is sly and noncommittal when passers-by praise the treasure perched in our buggy: What a fine tree and where did it come from? “Yonderways,” she murmurs vaguely. Once a car stops and the rich mill owner’s lazy wife leans out and whines: “Giveya twobits cash for that ol tree.” Ordinarily my friend is afraid of saying no; but on this occasion she promptly shakes her head: “We wouldn’t take a dollar.” The mill owner’s wife persists. “A dollar, my foot! Fifty cents. That’s my last offer. Goodness, woman, you can get another one.” In answer, my friend gently reflects: “I doubt it. There’s never two of anything.”

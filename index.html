@@ -1,0 +1,52 @@
+---
+layout: default
+title: parb.es
+---
+<table id=me>
+    <tr>
+        <td>
+            <a href="https://streamable.com/v04n" title="what lies beyond?"><img src="img/ng.jpg" id=dude alt="the dude"></a>
+        </td>
+        <td>
+            <div id=privacy-hell>
+                <ul>
+                    <li><a href="http://twitter.com/parb" title="the twitterz"><img src="img/social_icons/twitter.png" alt=""> twitter.com/parb</a>
+                    <li><a href="http://flickr.com/photos/parb" title="my flickr photostream"><img src="img/social_icons/flickr.png" alt=""> flickr.com/photos/parb</a>
+                    <li><a href="http://instagram.com/parb_" title="flickr was never cool, i guess"><img src="img/social_icons/instagram.ico" alt=""> instagram.com/parb_</a>
+                    <li><a href="http://vine.co/parb" title="short video madness"><img src="img/social_icons/vine.ico" alt=""> vine.co/parb</a>
+                    <li><a href="http://github.com/pflouret" title="random projects at github"><img src="img/social_icons/github.png" alt=""> github.com/pflouret</a>
+                    <li><a href="http://facebook.com/pflouret" title="facebook's privacy nightmare"><img src="img/social_icons/facebook.png" alt=""> facebook.com/pflouret</a>
+                    <li><a href="http://linkedin.com/in/pflouret" title="anyone still use linkedin?"><img src="img/social_icons/linkedin.png" alt=""> linkedin.com/in/pflouret</a>
+                </ul>
+                <ul>
+                    <li><a href="http://last.fm/user/pflouret" title="my plays at last.fm"><img src="img/social_icons/lastfm.png" alt=""> last.fm/user/pflouret</a>
+                    <li><a href="http://open.spotify.com/user/quuxbaz" title="my spotify user"><img src="img/social_icons/spotify.ico" alt=""> open.spotify.com/user/quuxbaz</a>
+                    <li><a href="http://songkick.com/users/quuxbaz" title="concerts!"><img src="img/social_icons/songkick.ico" alt=""> songkick.com/users/quuxbaz</a>
+                    <li><a href="http://pandora.com/profile/quuxbaz" title="pandora black magic"><img src="img/social_icons/pandora.png" alt=""> pandora.com/profile/quuxbaz</a>
+                    <li><img src="img/social_icons/bandcamp.ico" alt=""> <b>{</b> <a href="http://lefomo.bandcamp.com" title="some tunes">lefomo</a>, <a href="http://gradual.bandcamp.com" title="some old tunes">gradual</a> <b>}</b>.bandcamp.com</a>
+                    <li><a href="http://soundcloud.com/quux" title="some other tunes"><img src="img/social_icons/soundcloud.ico" alt=""> soundcloud.com/quux</a>
+                </ul>
+            </div>
+        </td>
+    </tr>
+</table>
+
+{% assign is_home = true %}
+
+<hr id=hr1>
+<hr id=hr2>
+<hr id=hr3>
+<hr id=hr4>
+
+<div id=posts>
+    <h2>random posts and stuff</h2>
+    <ul>
+        {% for post in site.posts %}
+        <li>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+    <p style="margin: 20px 0 -15px 0">〰</p>
+</div>
+

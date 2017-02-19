@@ -1,0 +1,10 @@
+---
+layout: default
+---
+<div class=post>
+    <h2><a href="{{page.url}}">{{page.title}}</a></h2>
+    {{ content }}
+    {% comment %}
+    <p class=meta>posted on {{page.date|date_to_rfc822|downcase}} &middot; last modified on {{page.last_modified_at|date_to_rfc822|downcase}}</p>
+    {% endcomment %}
+</div>

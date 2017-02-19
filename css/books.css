@@ -1,0 +1,28 @@
+body {
+    font-family: "Avenir", helvetica, sans-serif;
+}
+
+blockquote {
+    font-family: "Georgia", "Baskerville", serif;
+    font-size: 1.1em;
+    color: #222;
+    padding: 0;
+}
+
+blockquote p {
+    text-indent: 2em;
+}
+
+blockquote p:last-child {
+    margin-bottom: 5px;
+}
+
+blockquote::after {
+    content: "〰〰";
+    color: #ccc;
+    margin-left: 5px;
+}
+
+sup {
+    color: green;
+}

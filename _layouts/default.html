@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset=utf-8>
+        <title>pf : {{page.title}} : pablo flouret</title>
+        <meta name=author content="pablo flouret">
+        <link rel=home href="/">
+
+        <link href="/feeds/all.xml" rel=alternate title="pf : parb.es" type="application/rss+xml">
+        <link rel=stylesheet href="/css/screen.css" type="text/css" media="screen, projection">
+        {% for css_name in page.extra_css %}
+        <link rel=stylesheet href="{{ css_name }}">
+        {% endfor %}
+    </head>
+<body>
+    <div id=header>
+        <h1><a href="/" title="home">parb.es</a></h1>
+    </div>
+
+    <div id=content>
+        {{content}}
+    </div>
+
+    <div id=footer>
+        <div id=ohhai>
+            <pre>
+<a href="mailto:pflouret@gmail.com" title="mail"><img src="/img/social_icons/gmail.png" alt=""> pflouret@gmail.com</a>
+
+         OH HAI
+        /
+      \o
+       |\
+      /|
+            </pre>
+        </div>
+        <p id=last-update>
+            {% comment %}
+            {% render_time site last updated %}<br>
+            {% endcomment %}
+            <a href="/feeds/all.xml" style="color: inherit">rss</a>
+        </p>
+    </div>
+
+    {% unless site.local %}
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-44322771-1', 'parb.es');
+        ga('send', 'pageview');
+    </script>
+    {% endunless %}
+</body>
+</html>

@@ -1,0 +1,79 @@
+==================================================================
+https://keybase.io/parb
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://parb.es
+  * I am parb (https://keybase.io/parb) on keybase.
+  * I have a public key with fingerprint 8AE1 84E9 94C6 1B79 F689  414E EE42 6556 4CF4 5B91
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "8ae184e994c61b79f689414eee4265564cf45b91",
+            "host": "keybase.io",
+            "key_id": "ee4265564cf45b91",
+            "kid": "010104a6065744304550c531abebce338e076862cfe54c83e269aa37948c27f90bd50a",
+            "uid": "3124e2f97537c6842c4f25245f044f19",
+            "username": "parb"
+        },
+        "revoke": {
+            "sig_ids": [
+                "a4471f0eccc5b4fec880076ee2d3bc672e6ea565dbcba87e6a6ee42f2a44d8260f"
+            ]
+        },
+        "service": {
+            "hostname": "parb.es",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1437409616,
+    "expire_in": 157680000,
+    "prev": "4ad073854455138e0c772f221e92a73cb15f26646b205b426a0425a7ee55e966",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.20
+Comment: https://keybase.io/crypto
+
+yMNsAnicbVJtUFRVGF4+xNjUbMes8YPBG4wmC92Pc869d93BNCX5kEEdYdCIuffu
+uXAFdtfdy4ouTNHYl04CEklobToDM2oyTFhupthSNJGfoKZ/qAYVLBkHjY+CFTuX
+qZl+dM6PM+c9z/u8z/uc97vZUSZzxP3VODdrZGtdxPlQfblp84klOX5Kdjl2UjY/
+VYKnD1VzFmGP26M5dcpGCRJmBIBFESiIkXlRRYIIGIAxBiyCEAFFBVAWGcpKFbu8
+RgahkSUvTtFcJEYuhZqDRP8HXzL9QDNkAwnRCPIAcDSAkFYgx0gylhXMcQKmeSQg
+VlExBIrAYRaJksTxIhAUlldFWnZAWiJ05dN0HMMCzKoiDzleQQJgFaCykAVQpQFQ
+GdEAerHHKZVhgnZLHpmqslIe7HOVYKN7r1ZEBHsp21ZKAoBnVBorigJloGJFEGii
+BWPWwckK4lmMsAQRdMiKLAk8RhIyulRZkugQWESrVAHhJtV8mjJNbjj0n8op2Evk
+uD0u3aW4SkmwWNfdNkOPvtNtgHZgufCf9EJZczrIz5AEH/Z4NZeTsjEEqeiawccA
+jge0iBhkpXCFW/PgQs1AQOIdTZZRBvsIJZAcNM8JEBCfGcNcheeJZJbBIivxnCIz
+UGURAkhmadI1iyQasFDiMYYQiwhRRkPbnS7KRirpUhGhJJY5Jb3cg6mqztCr0aYI
+sylmRqQxWyZz7Nx/J27DnaemaMv5H7vB4JM3kZ72q7ltNwiWTnWVrZvM66i3LhKu
+JQ08/6jmJHPuyGU9eU9WTmOg9bftjyvs1evz0kNDMdfz/lr2YmprVGeiX6uuGb5w
+129ZNfBcR/Mzr7efkMYnout64x/kI6cXPMpUfB+Mp2hD1fvjzNc6wr0Lq4sd3shN
+1E8WhF84EHfrUG9/Z1f2K6MJR4fiMmKXlWxZe2/RvaJN62Ojgun2lxfuCvZbba4m
+NlB1JAAv3qeV6FVtcbVjP2zzwPajK5cOrk2+nV750dgSpn0NdVg7eGn3Xtvb/szi
+GmgP77nbui5n0nvntuWrNcGG5je+93RlbKSP7V/8aU9jpX2BLr7GVWQ19S099rAz
+uLHmzcHTMT2d9XLH5aqRtO7ET87qzpXfiMylSf+B0dzUzMdTfTkz3j2UWFz95YKG
+WXsz/sSbi5W30rMTDue2lOYmrWiX5aTRwBcfW9HxsYNX5k+9Y+6rG67oOdU7JzSe
+8fm++ugCkDwzZV5peFbbwx0JExveu3Czv+N4VHzN0y/5ClYLpqbFYnwEvl47s3Z+
+ZHf41rbTDnHkl9Cu8atgX0Oq8sQVob9xdllLwVznxI1Qzpn8tKueyuaWG8O/nxzM
+nhMfHlzyWX3v+4FnB7YsP7dcD9jPWE6FL473WH6uS5v39QM9O437dkVPe1bww4E/
+giWNMfl9Z0fsfwOC279Q
+=4qog
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/parb
+
+==================================================================
