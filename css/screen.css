@@ -42,22 +42,22 @@ hr { border: 0; width: 100%; }
     font-family: georgia, serif;
     font-size: 22px;
     letter-spacing: -0.1em;
-    padding-left: 4px;
     font-weight: normal;
 }
 
 #me {
-    margin: 0 auto 37px auto;
+    margin: 70px auto 87px auto;
 }
 
 #privacy-hell { margin-left: 20px; }
 #privacy-hell ul { margin-top: 0px; padding-top: 10px;}
 #privacy-hell li { padding-bottom: 10px; }
 #privacy-hell a:hover { text-decoration: none; }
+#privacy-hell b { font-size: 13px; vertical-align: 1px }
 #privacy-hell img {
-    width: 16px;
-    height: 16px;
-    margin-top: -2px;
+    width: 21px;
+    height: 21px;
+    margin-top: -1px;
 }
 
 
@@ -120,6 +120,26 @@ hr { border: 0; width: 100%; }
 }
 
 #footer pre {
+}
+
+#icon-credits > * {
+  color: #bbb
+}
+
+#icon-credits ul {
+  visibility: hidden
+}
+
+#icon-credits:hover > ul {
+  visibility: visible
+}
+
+#icon-credits p::before {
+  content: "\25B9 \ "
+}
+
+#icon-credits:hover > p::before {
+  content: "\25BF \ "
 }
 
 #last-update {
